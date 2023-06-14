@@ -1,3 +1,9 @@
 .pio
 .vscode
+include
+lib
 test
+CMakeList.txt
+platformio.ini
+sdkconfig.nodemcu-32s
+src/CMakeLists.txt
